@@ -1,4 +1,4 @@
-Implementation of PCA with ANN for Face Recognition
+#Implementation of PCA with ANN for Face Recognition
 
 This project implements a Face Recognition System using Principal Component Analysis (PCA) and an Artificial Neural Network (ANN) classifier.
 The system follows the classical Eigenfaces + Neural Network approach and is built using Python, NumPy, SciPy, OpenCV, and Scikit-learn (ANN).
